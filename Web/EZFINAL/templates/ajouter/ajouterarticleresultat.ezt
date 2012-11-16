@@ -1,0 +1,7 @@
+{use $contenu,$installRoot}
+
+
+<div id="pageid">
+    <h1>Ajout D'Article Status dans EAPPArticles</h1>
+    <a href="{$installRoot}/index.php">{ $contenu }</a>
+</div>

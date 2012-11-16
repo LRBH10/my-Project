@@ -1,0 +1,6 @@
+C:\Users\BIBOUH\git\Projects-Rabah\C#\WebServiceN-tiers\ConvertirService\bin\Debug\ConvertirService.exe.config
+C:\Users\BIBOUH\git\Projects-Rabah\C#\WebServiceN-tiers\ConvertirService\bin\Debug\ConvertirService.exe
+C:\Users\BIBOUH\git\Projects-Rabah\C#\WebServiceN-tiers\ConvertirService\bin\Debug\ConvertirService.pdb
+C:\Users\BIBOUH\git\Projects-Rabah\C#\WebServiceN-tiers\ConvertirService\obj\Debug\ConvertirService.exe
+C:\Users\BIBOUH\git\Projects-Rabah\C#\WebServiceN-tiers\ConvertirService\obj\Debug\ConvertirService.pdb
+C:\Users\BIBOUH\git\Projects-Rabah\C#\WebServiceN-tiers\ConvertirService\obj\Debug\ConvertirService.csprojResolveAssemblyReference.cache

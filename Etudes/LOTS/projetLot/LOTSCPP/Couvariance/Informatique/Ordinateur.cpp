@@ -1,0 +1,1 @@
+#include "Ordinateur.h"// Constructors/Destructors//  Ordinateur::Ordinateur ( ) {}Ordinateur::~Ordinateur ( ) { }//  // Methods//  // Other methods//  

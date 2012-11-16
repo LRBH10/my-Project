@@ -1,0 +1,26 @@
+<div id="pageid">
+    <h1> Projet Par  </h1>
+        <li>
+            <h2> Blazo Nestov </h2>
+            <p>
+                Affichage et Suppression d'un Article<br/>
+                Layout des pages (Menu, Content, footer, header)<br/>
+                La gestion de Page Not Found<br/> 
+            </p>
+            <h2> Laouadi Rabah </h2>
+            <p>
+                Connexion a la base de données( avec PersistentObject de la class Article)<br/>
+                Ajoute d'un article<br/>
+                SEO (sitemap.xml, robots.txt) <br/>
+            </p>
+            <h2> Nikolay Hoseyni</h2>
+            <p>
+                CSS du site Web<br/>
+                Affichage des Articles dans la page d'acceuil <br/>
+                (les 50 premiers caractaires)<br/>
+            </p>
+            
+<br/><br/>
+        </li>
+
+</div>

@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\Molecule.o
+./debug\Liaison.o
+./debug\Atome.o
+./debug\Sommet.o
+./debug\Graphe.o
+./debug\Aret.o
+./debug\Reseau.o
+./debug\Ordinateur.o
+./debug\Cable.o
+);

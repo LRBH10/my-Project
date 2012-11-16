@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="9809c8c0-d1fb-4a16-8905-e7a3f0c6a403" Publisher="CN=BIBOUH" Version="1.0.0.0" ProcessorArchitecture="neutral" />
+  <Properties>
+    <DisplayName>MastroAppNtiers</DisplayName>
+    <PublisherDisplayName>BIBOUH</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+    <Description>MastroAppNtiers</Description>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2</OSMinVersion>
+    <OSMaxVersionTested>6.2</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="fr-FR" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="MastroAppNtiers.exe" EntryPoint="MastroAppNtiers.App">
+      <VisualElements DisplayName="MastroAppNtiers" Logo="Assets\Logo.png" SmallLogo="Assets\SmallLogo.png" Description="MastroAppNtiers" ForegroundText="light" BackgroundColor="#222222">
+        <DefaultTile ShowName="allLogos" />
+        <SplashScreen Image="Assets\SplashScreen.png" />
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

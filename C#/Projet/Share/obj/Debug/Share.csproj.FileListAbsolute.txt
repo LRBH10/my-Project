@@ -1,0 +1,10 @@
+C:\Users\BIBOUH\git\Projects-Rabah\C#\exemplesCoursRemoting\Share\bin\Debug\Share.dll
+C:\Users\BIBOUH\git\Projects-Rabah\C#\exemplesCoursRemoting\Share\bin\Debug\Share.pdb
+C:\Users\BIBOUH\git\Projects-Rabah\C#\exemplesCoursRemoting\Share\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BIBOUH\git\Projects-Rabah\C#\exemplesCoursRemoting\Share\obj\Debug\Share.dll
+C:\Users\BIBOUH\git\Projects-Rabah\C#\exemplesCoursRemoting\Share\obj\Debug\Share.pdb
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\Share\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\Share\obj\Debug\Share.dll
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\Share\bin\Debug\Share.dll
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\Share\bin\Debug\Share.pdb
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\Share\obj\Debug\Share.pdb

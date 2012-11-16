@@ -1,0 +1,10 @@
+create database eapptp;
+CREATE TABLE articles
+(
+  id integer unsigned not null auto_increment,
+  titre varchar(255),
+  contenu varchar(10000),
+  PRIMARY KEY (id)
+);
+
+insert into articles values('','Thai Times','Last November, I had the privilege of traveling to Thailand. After almost canceling the trip due to massive flooding and concerned friends and loved ones, fate and my analytical self took over.  I was not going to throw all that money away and they were non-refundable tickets.  Decisions, decisions. Sometimes, you need a little push to do things out of your comfort zone. This was my first time traveling abroad without any job to do or specific reason. Travel for the sake of travel? What a novel idea! So foreign to me, yet so intriguing.  Hopping across the globe was so alien to me, yet soul feeding.  Going, actually just doing and being present without knowing what’s on the other side, is how I want to experience life but rarely let myself live that freely.  Practicality is safe, but in no way allows you to grow, experience new perspectives or live up to your highest potential. So away we go…What I got to love, is that being submersed in a different culture, you get a boost of exhilaration and a peaceful feeling in your gut to see the best in people.  The news media had sensationalized the flood, making the idea of traveling to a foreign land, scary, devastating, we would be stranded, alone, against the elements, mugged and probably die by some strange disease no one had ever heard of. What I discovered was a reminder that people are kind, mesmerizing; our world is so beautiful and huge. The Thai people, as well as the the many world travelers I met, showed me how kind, interesting and inspired humanity can be. Although I still feel like I couldn’t capture with a camera everything I saw and felt, pictures are worth a thousand words, so I’ll get on with it already:  my thoughts on Orphans, Nature Reserves, Majestic Elephants, Island Life, Thai Food, Monks, Lantern Festivals, Countryside Bike Rides, Chiang Mai wonderings and other surreal dreams');

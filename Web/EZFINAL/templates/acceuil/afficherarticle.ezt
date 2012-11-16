@@ -1,0 +1,14 @@
+{use $titre, $contenu, $numPage}
+
+<div id="pageid">
+    <h1>EAPPArticle  {$numPage}</h1> 
+    <h2>{$titre}</h2>  
+    <p>{$contenu}</p>
+    <form action="deleteArticle/{$numPage}" method="POST">
+        <input type="submit" name="delete" id="delete" value="Supprimer L'article" />
+    </form>
+    <form action="modifyArticle/{$numPage}" method="POST">
+        <input type="submit" name="modify" id="modify" value="Modifier L'article " />
+    </form>
+
+</div>

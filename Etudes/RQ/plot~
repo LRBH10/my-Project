@@ -1,0 +1,14 @@
+
+set term png size 1024,768
+
+set output "TEx/graphic/rate2on100off100.png"
+set title "les fenetre TCPs et la Fille d'attente"
+set xlabel "le temps de simulation"
+set ylabel "nombre de paquets"
+
+plot    "tcp0.tr" using 2:3 with lines title "flux TCP 0",\
+        "tcp1.tr" using 2:3 with lines title "flux TCP 1",\
+        "tcp2.tr" using 2:3 with lines title "flux TCP 2",\
+        "filAtt.tr" with lines title "File d'attente"
+exit   
+        

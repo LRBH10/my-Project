@@ -1,0 +1,6 @@
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\ClienWebService\bin\Debug\ClienWebService.exe.config
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\ClienWebService\bin\Debug\ClienWebService.exe
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\ClienWebService\bin\Debug\ClienWebService.pdb
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\ClienWebService\obj\Debug\ClienWebService.csprojResolveAssemblyReference.cache
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\ClienWebService\obj\Debug\ClienWebService.exe
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\ClienWebService\obj\Debug\ClienWebService.pdb

@@ -1,0 +1,28 @@
+module BanqueApp
+{
+	struct Compte { 
+      string nomPro; 
+      double solde; 
+    };
+    
+     typedef  sequence <Compte> Comptes; 
+     
+  interface GestionBanque
+  {
+  	void addCompte(in string nomPro, in double montantInitial);
+  	Compte getCompteInfoByName(in string nomPro); 
+  };
+  
+  interface ClientBanque
+  {
+      boolean credit(in string nomPro,in double argent);
+      boolean debit(in string nomPro,in double argent);
+      double consulter(in string nomPro); 
+  };
+  interface Banque:ClientBanque, GestionBanque
+  {
+  	attribute Comptes comptes;
+  };
+  
+  
+};

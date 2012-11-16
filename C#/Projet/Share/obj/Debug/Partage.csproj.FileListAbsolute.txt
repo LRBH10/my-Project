@@ -1,0 +1,7 @@
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\Share\bin\Debug\Partage.dll
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\Share\bin\Debug\Partage.pdb
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\Share\bin\Debug\Interfaces.dll
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\Share\bin\Debug\Interfaces.pdb
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\Share\obj\Debug\Partage.csprojResolveAssemblyReference.cache
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\Share\obj\Debug\Partage.dll
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\Share\obj\Debug\Partage.pdb

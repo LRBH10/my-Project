@@ -1,0 +1,20 @@
+{use  $banner , $footer , $menu, $content , $installRoot}
+<html>
+    <head>
+        <title>EAPPArticles : les differents Articles</title>
+        <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+        <meta name="description" 
+content="EAPPArticles est un site web qui contients les differents articles ajouter par les internauts" />
+<!-- POUR LE MOTEUR YAHOO SEULEMENT -->
+        <meta name="keywords" content="EAPP Articles, EAPPArticles, E-APP Articles, E-APPArticles" />
+     <link rel="stylesheet" href="{$installRoot}/media/touching.css" type="text/css" />
+    </head>
+    <body>
+        <div id="container">
+            {raw $banner}
+            {raw $menu}
+            {raw $content}
+            {raw $footer}
+         </div>
+    </body>
+</html>

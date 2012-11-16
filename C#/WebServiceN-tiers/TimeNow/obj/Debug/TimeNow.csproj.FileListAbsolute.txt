@@ -1,0 +1,10 @@
+C:\Users\BIBOUH\git\Projects-Rabah\C#\TimeNow\TimeNow\bin\TimeNow.dll
+C:\Users\BIBOUH\git\Projects-Rabah\C#\TimeNow\TimeNow\bin\TimeNow.pdb
+C:\Users\BIBOUH\git\Projects-Rabah\C#\TimeNow\TimeNow\obj\Debug\TimeNow.csprojResolveAssemblyReference.cache
+C:\Users\BIBOUH\git\Projects-Rabah\C#\TimeNow\TimeNow\obj\Debug\TimeNow.dll
+C:\Users\BIBOUH\git\Projects-Rabah\C#\TimeNow\TimeNow\obj\Debug\TimeNow.pdb
+C:\Users\BIBOUH\git\Projects-Rabah\C#\WebServiceN-tiers\TimeNow\bin\TimeNow.dll
+C:\Users\BIBOUH\git\Projects-Rabah\C#\WebServiceN-tiers\TimeNow\bin\TimeNow.pdb
+C:\Users\BIBOUH\git\Projects-Rabah\C#\WebServiceN-tiers\TimeNow\obj\Debug\TimeNow.csprojResolveAssemblyReference.cache
+C:\Users\BIBOUH\git\Projects-Rabah\C#\WebServiceN-tiers\TimeNow\obj\Debug\TimeNow.dll
+C:\Users\BIBOUH\git\Projects-Rabah\C#\WebServiceN-tiers\TimeNow\obj\Debug\TimeNow.pdb

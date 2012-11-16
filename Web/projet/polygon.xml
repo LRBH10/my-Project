@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml-stylesheet href="analyse.xsl" type="text/xsl" ?>
+
+<polygon>
+	<etage niveau="-1">
+		<magasin type="alimentaire" nom="Inno"></magasin>
+		<magasin type="vestinaire" nom="Zara"></magasin>
+		<magasin type="culturel" nom="Cult"></magasin>
+	</etage>
+	<etage niveau="0">
+		<magasin type="alimentaire" nom="Magdo"></magasin>
+		<magasin type="vestinaire" nom="Berska"></magasin>
+		<magasin type="culturel" nom="Sauramps"></magasin>
+	</etage>
+	<etage niveau="1">
+		<magasin type="alimentaire" nom="Flunch"></magasin>
+		<magasin type="vestinaire" nom="Celio"></magasin>
+	</etage>
+	<etage niveau="2">
+		<magasin type="alimentaire" nom="Kebap"></magasin>
+		<magasin type="vestinaire" nom="Jules"></magasin>
+	</etage>
+</polygon>
+

@@ -1,0 +1,11 @@
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\Bibliothequaire\bin\Debug\Bibliothequaire.pdb
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\Bibliothequaire\bin\Debug\Interfaces.dll
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\Bibliothequaire\bin\Debug\Serveur.exe
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\Bibliothequaire\bin\Debug\Partage.dll
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\Bibliothequaire\bin\Debug\Serveur.pdb
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\Bibliothequaire\bin\Debug\Interfaces.pdb
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\Bibliothequaire\bin\Debug\Partage.pdb
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\Bibliothequaire\obj\Debug\Bibliothequaire.pdb
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\Bibliothequaire\bin\Debug\Bibliothequaire.exe
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\Bibliothequaire\obj\Debug\Bibliothequaire.exe
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\Bibliothequaire\obj\Debug\Bibliothequaire.csprojResolveAssemblyReference.cache

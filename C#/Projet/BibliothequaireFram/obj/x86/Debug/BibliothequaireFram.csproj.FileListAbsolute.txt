@@ -1,0 +1,12 @@
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\BibliothequaireFram\bin\Debug\BibliothequaireFram.exe
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\BibliothequaireFram\bin\Debug\BibliothequaireFram.pdb
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\BibliothequaireFram\bin\Debug\Bibliothequaire.exe
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\BibliothequaireFram\bin\Debug\Interfaces.dll
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\BibliothequaireFram\bin\Debug\Bibliothequaire.pdb
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\BibliothequaireFram\bin\Debug\Interfaces.pdb
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\BibliothequaireFram\obj\x86\Debug\BibliothequaireFram.Form1.resources
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\BibliothequaireFram\obj\x86\Debug\BibliothequaireFram.Properties.Resources.resources
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\BibliothequaireFram\obj\x86\Debug\BibliothequaireFram.exe
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\BibliothequaireFram\obj\x86\Debug\BibliothequaireFram.pdb
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\BibliothequaireFram\obj\x86\Debug\BibliothequaireFram.csprojResolveAssemblyReference.cache
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\BibliothequaireFram\obj\x86\Debug\BibliothequaireFram.csproj.GenerateResource.Cache

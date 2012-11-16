@@ -1,0 +1,8 @@
+{use $installRoot, $NumArticle}
+
+
+<div id="pageid">
+    <h1>Delete Article v2</h1>
+
+    <h2>Article {$NumArticle} deleted</h2>
+</div>

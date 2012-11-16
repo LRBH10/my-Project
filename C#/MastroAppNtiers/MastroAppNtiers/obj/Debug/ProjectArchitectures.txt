@@ -1,0 +1,2 @@
+C:\Users\BIBOUH\git\Projects-Rabah\C#\MastroAppNtiers\MastroAppNtiers\MastroAppNtiers.csproj;neutral
+C:\Users\BIBOUH\git\Projects-Rabah\C#\MastroAppNtiers\WebServiceSOAP\WebServiceSOAP.csproj;neutral

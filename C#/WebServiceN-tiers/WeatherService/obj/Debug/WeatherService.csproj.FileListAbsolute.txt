@@ -1,0 +1,6 @@
+C:\Users\BIBOUH\git\Projects-Rabah\C#\WebServiceN-tiers\WeatherService\bin\Debug\WeatherService.pdb
+C:\Users\BIBOUH\git\Projects-Rabah\C#\WebServiceN-tiers\WeatherService\obj\Debug\WeatherService.csprojResolveAssemblyReference.cache
+C:\Users\BIBOUH\git\Projects-Rabah\C#\WebServiceN-tiers\WeatherService\obj\Debug\WeatherService.pdb
+C:\Users\BIBOUH\git\Projects-Rabah\C#\WebServiceN-tiers\WeatherService\bin\Debug\WeatherService.dll.config
+C:\Users\BIBOUH\git\Projects-Rabah\C#\WebServiceN-tiers\WeatherService\bin\Debug\WeatherService.dll
+C:\Users\BIBOUH\git\Projects-Rabah\C#\WebServiceN-tiers\WeatherService\obj\Debug\WeatherService.dll

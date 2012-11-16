@@ -1,0 +1,27 @@
+{use $installRoot, $numPage , $titre , $contenu}
+
+<div id="pageid">
+    <h1>Modify Article v2</h1>
+
+    <h2>Modification D'Article {$numPage}</h2>
+    
+    <form action="modif/effectue" method="POST">
+        <table>
+            <tr>
+                <td><input type="hidden" name="id" id="id" value="{$numPage}" readonly="readonly" /></td>
+            </tr>
+            <tr>
+                <th><h2>Titre</h2></td>
+                <td><input type="text" name="titre" id="titre" value="{$titre}" /></td>
+            </tr>
+            <tr>
+                <th><h2>Contenu</h2></td>
+                <td><textarea name="contenu" id="contenu" rows="10" cols="50">{$contenu}</textarea></td>
+            </tr>
+            <tr>
+                <td><input type="submit" name="modify" id="modify" value="Modifier l'article" /></td>
+            </tr>
+        </table>
+        
+    </form>
+</div>

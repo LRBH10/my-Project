@@ -1,0 +1,9 @@
+C:\Users\BIBOUH\git\Projects-Rabah\C#\WebServiceN-tiers\WebServiceN-tiers\bin\Debug\WebServiceN-tiers.exe
+C:\Users\BIBOUH\git\Projects-Rabah\C#\WebServiceN-tiers\WebServiceN-tiers\bin\Debug\WebServiceN-tiers.pdb
+C:\Users\BIBOUH\git\Projects-Rabah\C#\WebServiceN-tiers\WebServiceN-tiers\obj\Debug\WebServiceN-tiers.csprojResolveAssemblyReference.cache
+C:\Users\BIBOUH\git\Projects-Rabah\C#\WebServiceN-tiers\WebServiceN-tiers\obj\Debug\WebServiceN-tiers.exe
+C:\Users\BIBOUH\git\Projects-Rabah\C#\WebServiceN-tiers\WebServiceN-tiers\obj\Debug\WebServiceN-tiers.pdb
+C:\Users\BIBOUH\git\Projects-Rabah\C#\WebServiceN-tiers\WebServiceN-tiers\bin\Debug\WeatherService.pdb
+C:\Users\BIBOUH\git\Projects-Rabah\C#\WebServiceN-tiers\WebServiceN-tiers\bin\Debug\WeatherService.dll
+C:\Users\BIBOUH\git\Projects-Rabah\C#\WebServiceN-tiers\WebServiceN-tiers\bin\Debug\ConvertirService.exe
+C:\Users\BIBOUH\git\Projects-Rabah\C#\WebServiceN-tiers\WebServiceN-tiers\bin\Debug\ConvertirService.pdb

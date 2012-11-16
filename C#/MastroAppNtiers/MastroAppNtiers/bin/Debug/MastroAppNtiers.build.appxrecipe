@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>BIBOUH-PC</Machine>
+    <WindowsUser>BIBOUH</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\BIBOUH\git\Projects-Rabah\C#\MastroAppNtiers\MastroAppNtiers\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <Modified>2012-03-18T20:11:03.674</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\BIBOUH\git\Projects-Rabah\C#\MastroAppNtiers\MastroAppNtiers\bin\Debug\MastroAppNtiers.exe">
+      <PackagePath>MastroAppNtiers.exe</PackagePath>
+      <Modified>2012-03-21T19:29:52.187</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\BIBOUH\git\Projects-Rabah\C#\MastroAppNtiers\MastroAppNtiers\bin\Debug\MastroAppNtiers.pdb">
+      <PackagePath>MastroAppNtiers.pdb</PackagePath>
+      <Modified>2012-03-21T19:29:52.165</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\BIBOUH\git\Projects-Rabah\C#\MastroAppNtiers\WebServiceSOAP\bin\Debug\WebServiceSOAP.dll">
+      <PackagePath>WebServiceSOAP.dll</PackagePath>
+      <Modified>2012-03-21T19:29:50.276</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\BIBOUH\git\Projects-Rabah\C#\MastroAppNtiers\WebServiceSOAP\bin\Debug\WebServiceSOAP.pdb">
+      <PackagePath>WebServiceSOAP.pdb</PackagePath>
+      <Modified>2012-03-21T19:29:50.254</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\BIBOUH\git\Projects-Rabah\C#\MastroAppNtiers\MastroAppNtiers\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <Modified>2012-02-14T05:17:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\BIBOUH\git\Projects-Rabah\C#\MastroAppNtiers\MastroAppNtiers\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <Modified>2012-02-14T05:17:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\BIBOUH\git\Projects-Rabah\C#\MastroAppNtiers\MastroAppNtiers\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <Modified>2012-02-14T05:17:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\BIBOUH\git\Projects-Rabah\C#\MastroAppNtiers\MastroAppNtiers\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <Modified>2012-02-14T05:17:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\BIBOUH\git\Projects-Rabah\C#\MastroAppNtiers\MastroAppNtiers\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-02-14T05:17:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\BIBOUH\git\Projects-Rabah\C#\MastroAppNtiers\MastroAppNtiers\bin\Debug\BlankPage.xaml">
+      <PackagePath>BlankPage.xaml</PackagePath>
+      <Modified>2012-03-19T11:10:43.791</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\BIBOUH\git\Projects-Rabah\C#\MastroAppNtiers\MastroAppNtiers\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-03-18T19:34:20.207</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\BIBOUH\git\Projects-Rabah\C#\MastroAppNtiers\MastroAppNtiers\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-03-18T20:31:46.939</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 11
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Couvariance", "CSharp\Couvariance.csproj", "{D76DAC6B-E026-4841-8A43-62249F46783D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "genericite", "genericite\genericite.csproj", "{A3753A33-F0DC-4F13-AB18-11294C1F10D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3753A33-F0DC-4F13-AB18-11294C1F10D0}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{A3753A33-F0DC-4F13-AB18-11294C1F10D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3753A33-F0DC-4F13-AB18-11294C1F10D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3753A33-F0DC-4F13-AB18-11294C1F10D0}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A3753A33-F0DC-4F13-AB18-11294C1F10D0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A3753A33-F0DC-4F13-AB18-11294C1F10D0}.Release|ARM.ActiveCfg = Release|Any CPU
+		{A3753A33-F0DC-4F13-AB18-11294C1F10D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3753A33-F0DC-4F13-AB18-11294C1F10D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3753A33-F0DC-4F13-AB18-11294C1F10D0}.Release|x64.ActiveCfg = Release|Any CPU
+		{A3753A33-F0DC-4F13-AB18-11294C1F10D0}.Release|x86.ActiveCfg = Release|Any CPU
+		{D76DAC6B-E026-4841-8A43-62249F46783D}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{D76DAC6B-E026-4841-8A43-62249F46783D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D76DAC6B-E026-4841-8A43-62249F46783D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D76DAC6B-E026-4841-8A43-62249F46783D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D76DAC6B-E026-4841-8A43-62249F46783D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D76DAC6B-E026-4841-8A43-62249F46783D}.Release|ARM.ActiveCfg = Release|Any CPU
+		{D76DAC6B-E026-4841-8A43-62249F46783D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D76DAC6B-E026-4841-8A43-62249F46783D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D76DAC6B-E026-4841-8A43-62249F46783D}.Release|x64.ActiveCfg = Release|Any CPU
+		{D76DAC6B-E026-4841-8A43-62249F46783D}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

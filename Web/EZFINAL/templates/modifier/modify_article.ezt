@@ -1,0 +1,4 @@
+{use $result}
+<div id="pageid">
+<h2>{$result}</h2>
+</div>

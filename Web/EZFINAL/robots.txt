@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /autoload/
+Disallow: /config/
+Disallow: /ezc/
+Disallow: /lib/
+Allow: /
+

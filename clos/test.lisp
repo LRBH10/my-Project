@@ -1,0 +1,56 @@
+
+(defclass memo-class (standard-class)
+  ((instance-set :accessor class-instance-set
+		 :initform nil
+	       ))
+  
+  (:metaclass standard-class)
+)
+
+(defclass memo-object (standard-object)
+  ()
+  (:metaclass standard-class)
+)
+
+
+;;les defGenerics 
+
+(defgeneric free-instance(mc out))
+
+(defgeneric free-object (o))
+
+
+
+;;definitions
+
+
+
+(defmethod make-instance ((mc memo-class) &rest initargs)
+  (let (( xm (call-next-method))) 
+	   (setf (class-instance-set mc) (cons xm (class-instance-set mc)))
+	   xm))
+  
+
+
+
+(defmethod free-instance ((mc memo-class)  out)
+  ( setf (class-instance-set mc) (delete out (class-instance-set mc)))
+)
+
+(defmethod free-object ((mo memo-object))
+    (free-instance (class-of mo) mo)    
+)
+
+
+
+(defmethod validate-superclass ((mc memo-class) (sup standard-class))
+  (eq "memo-object" (class-name sup))
+)
+
+(defmethod validate-superclass ((mc memo-class) (sup memo-class))
+  t
+)
+
+(defmethod validate-superclass ((cl standard-class)(mc memo-class))
+  ()
+)

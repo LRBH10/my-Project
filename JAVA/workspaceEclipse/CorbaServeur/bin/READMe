@@ -1,0 +1,3 @@
+  start orbd -ORBInitialPort 1050 -ORBInitialHost localhost
+  java HelloServer -ORBInitialPort 1050 -ORBInitialHost localhost
+  java HelloClient -ORBInitialPort 1050 -ORBInitialHost localhost

@@ -1,0 +1,24 @@
+module chimie
+import general
+
+class Molecule
+	super Graphe	
+
+	redef type U : Liaison   	
+	redef type V : Atome
+end
+
+class Liaison
+	super Aret
+
+	redef type T : Molecule   	
+	redef type V : Atome
+
+end
+
+abstract class Atome
+	super Sommet
+
+	redef type T : Molecule   	
+	redef type U : Liaison
+end

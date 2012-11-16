@@ -1,0 +1,11 @@
+{use $NumArticle,$installRoot}
+<div id="pageid">
+    <h1>Modifier Article Validation</h1>
+    <h2>Modfication Article {$NumArticle}</h2>
+    
+    <a href="{$installRoot}/index.php">ANNULER</a>
+
+    <form action="article/modifyArticle/{$NumArticle}" method="POST">
+        <input type="submit" name="delete" id="delete" value="Confirmer la modification de l'article" />
+    </form>
+</div>

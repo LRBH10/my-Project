@@ -1,0 +1,14 @@
+C:\Users\BIBOUH\git\Projects-Rabah\C#\exemplesCoursRemoting\ExempleSingleton\bin\Debug\ExempleSingleton.exe
+C:\Users\BIBOUH\git\Projects-Rabah\C#\exemplesCoursRemoting\ExempleSingleton\bin\Debug\ExempleSingleton.pdb
+C:\Users\BIBOUH\git\Projects-Rabah\C#\exemplesCoursRemoting\ExempleSingleton\bin\Debug\Share.dll
+C:\Users\BIBOUH\git\Projects-Rabah\C#\exemplesCoursRemoting\ExempleSingleton\bin\Debug\Share.pdb
+C:\Users\BIBOUH\git\Projects-Rabah\C#\exemplesCoursRemoting\ExempleSingleton\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BIBOUH\git\Projects-Rabah\C#\exemplesCoursRemoting\ExempleSingleton\obj\Debug\ExempleSingleton.exe
+C:\Users\BIBOUH\git\Projects-Rabah\C#\exemplesCoursRemoting\ExempleSingleton\obj\Debug\ExempleSingleton.pdb
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\ExempleSingleton\obj\Debug\ExempleSingleton.exe
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\ExempleSingleton\obj\Debug\ExempleSingleton.pdb
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\ExempleSingleton\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\ExempleSingleton\bin\Debug\ExempleSingleton.exe
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\ExempleSingleton\bin\Debug\ExempleSingleton.pdb
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\ExempleSingleton\bin\Debug\Share.dll
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\ExempleSingleton\bin\Debug\Share.pdb

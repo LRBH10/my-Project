@@ -1,0 +1,4 @@
+{ use $installRoot}
+<div id="footer">
+    <a href="{$installRoot}/index.php/aboutus">EzComponents - MVC - SEO - CMS -</a>
+</div>

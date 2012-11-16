@@ -1,0 +1,14 @@
+{use $articles, $installRoot}
+<div id="content">
+    <h1>EAPPArticles </h1>
+    <ol>
+    {foreach $articles as $article }
+        <li>          
+            <a href="{$installRoot}/index.php/article/{$article->id}">{$article->titre}</a>
+            <p><strong>{str_left($article->contenu , 200 )}... </strong></p>
+            <br/><br/>
+        </li>
+        
+    {/foreach}
+    </ol>
+</div>

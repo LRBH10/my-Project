@@ -1,0 +1,13 @@
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\ClientFram\bin\Debug\ClientFram.exe
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\ClientFram\bin\Debug\ClientFram.pdb
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\ClientFram\obj\x86\Debug\ClientFram.Form1.resources
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\ClientFram\obj\x86\Debug\ClientFram.Properties.Resources.resources
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\ClientFram\obj\x86\Debug\ClientFram.exe
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\ClientFram\obj\x86\Debug\ClientFram.pdb
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\ClientFram\bin\Debug\Interfaces.dll
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\ClientFram\bin\Debug\Client.pdb
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\ClientFram\bin\Debug\Interfaces.pdb
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\ClientFram\bin\Debug\Client.dll
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\ClientFram\obj\x86\Debug\ClientFram.csprojResolveAssemblyReference.cache
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\ClientFram\obj\x86\Debug\ClientFram.csproj.GenerateResource.Cache
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\ClientFram\bin\Debug\ClientFram.exe.config

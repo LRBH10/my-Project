@@ -1,0 +1,14 @@
+C:\Users\BIBOUH\git\Projects-Rabah\C#\MastroAppNtiers\WebServiceSOAP\bin\Debug\WebServiceSOAP.dll
+C:\Users\BIBOUH\git\Projects-Rabah\C#\MastroAppNtiers\WebServiceSOAP\bin\Debug\WebServiceSOAP.pdb
+C:\Users\BIBOUH\git\Projects-Rabah\C#\MastroAppNtiers\WebServiceSOAP\bin\Debug\WebServiceSOAP.pri
+C:\Users\BIBOUH\git\Projects-Rabah\C#\MastroAppNtiers\WebServiceSOAP\obj\Debug\WebServiceSOAP.dll
+C:\Users\BIBOUH\git\Projects-Rabah\C#\MastroAppNtiers\WebServiceSOAP\obj\Debug\WebServiceSOAP.pdb
+C:\Users\BIBOUH\git\Projects-Rabah\C#\MastroAppNtiers\WebServiceSOAP\obj\Debug\priconfig.xml
+C:\Users\BIBOUH\git\Projects-Rabah\C#\MastroAppNtiers\WebServiceSOAP\obj\Debug\layout.resfiles
+C:\Users\BIBOUH\git\Projects-Rabah\C#\MastroAppNtiers\WebServiceSOAP\obj\Debug\resources.resfiles
+C:\Users\BIBOUH\git\Projects-Rabah\C#\MastroAppNtiers\WebServiceSOAP\obj\Debug\pri.resfiles
+C:\Users\BIBOUH\git\Projects-Rabah\C#\MastroAppNtiers\WebServiceSOAP\obj\Debug\LanguageQualifiers.txt
+C:\Users\BIBOUH\git\Projects-Rabah\C#\MastroAppNtiers\WebServiceSOAP\obj\Debug\priconfig.xml.intermediate
+C:\Users\BIBOUH\git\Projects-Rabah\C#\MastroAppNtiers\WebServiceSOAP\obj\Debug\layout.resfiles.intermediate
+C:\Users\BIBOUH\git\Projects-Rabah\C#\MastroAppNtiers\WebServiceSOAP\obj\Debug\resources.resfiles.intermediate
+C:\Users\BIBOUH\git\Projects-Rabah\C#\MastroAppNtiers\WebServiceSOAP\obj\Debug\pri.resfiles.intermediate

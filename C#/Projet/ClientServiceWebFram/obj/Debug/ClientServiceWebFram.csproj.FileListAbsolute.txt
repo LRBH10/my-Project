@@ -1,0 +1,11 @@
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\ClientServiceWebFram\obj\Debug\ClientServiceWebFram.Form1.resources
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\ClientServiceWebFram\obj\Debug\ClientServiceWebFram.Properties.Resources.resources
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\ClientServiceWebFram\obj\Debug\ClientServiceWebFram.csproj.GenerateResource.Cache
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\ClientServiceWebFram\bin\Debug\ClientServiceWebFram.exe
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\ClientServiceWebFram\bin\Debug\ClientServiceWebFram.pdb
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\ClientServiceWebFram\obj\Debug\ClientServiceWebFram.exe
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\ClientServiceWebFram\obj\Debug\ClientServiceWebFram.pdb
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\ClientServiceWebFram\bin\Debug\ClienWebService.exe
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\ClientServiceWebFram\bin\Debug\ClienWebService.pdb
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\ClientServiceWebFram\obj\Debug\ClientServiceWebFram.csprojResolveAssemblyReference.cache
+C:\Users\BIBOUH\git\Projects-Rabah\C#\Projet\ClientServiceWebFram\bin\Debug\ClientServiceWebFram.exe.config

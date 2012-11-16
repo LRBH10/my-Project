@@ -1,0 +1,32 @@
+Javassist
+OpenJava
+
+OpenC++ -> VivaCome
+
+AspectJ
+
+python
+Ruby??
+
+smaltalk
+
+CLOS
+
+
+classes qui mémorisent leur instances
+
+
+C++ Templete
+
+
+
+--class singleton
+--class qui clonent leur derniere instance
+
+
+Singleton 
+   -mémoriser l'unique instance
+   -make-instance return l'instance créer.
+
+
+en scala class Singleton est declarer object

@@ -1,0 +1,29 @@
+﻿<Page
+    x:Class="MastroAppNtiers.BlankPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MastroAppNtiers"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="Black">
+        <Button x:ConnectionId='1' x:Name="LoadButton" Content="Changer Location" HorizontalAlignment="Left" Height="53" Margin="1189.036,662.779,-7.51,0" VerticalAlignment="Top" Width="184.474" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto"                         >
+            <Button.RenderTransform>
+                <CompositeTransform Rotation="-42.064"/>
+            </Button.RenderTransform>
+        </Button>
+        <Canvas x:Name="AfficheDetails" Margin="128,86,58,415">
+            <TextBlock x:Name="LocationEdit" TextWrapping="Wrap" Text="TextBlock" FontFamily="Times New Roman" FontSize="36" Foreground="#FFF7EBEB" Height="124" Width="352"/>
+            <TextBlock x:Name="VentEdit" TextWrapping="Wrap" Text="TextBlock" FontFamily="Times New Roman" FontSize="36" Foreground="#FFF7EBEB" Height="124" Canvas.Top="143" Width="352"/>
+            <TextBlock x:Name="TimeEdit" TextWrapping="Wrap" Text="TextBlock" FontFamily="Times New Roman" FontSize="36" Foreground="#FFF7EBEB" Height="124" Canvas.Left="410" Width="352"/>
+            <TextBlock x:Name="HumiditeEdit" TextWrapping="Wrap" Text="TextBlock" FontFamily="Times New Roman" FontSize="36" Foreground="#FFF7EBEB" Height="124" Canvas.Left="410" Canvas.Top="143" Width="352"/>
+            <TextBlock x:Name="pressionEdit" TextWrapping="Wrap" Text="TextBlock" FontFamily="Times New Roman" FontSize="36" Foreground="#FFF7EBEB" Height="124" Canvas.Left="828" Width="352"/>
+            <TextBlock x:Name="TemperatureEdit" TextWrapping="Wrap" Text="TextBlock" FontFamily="Times New Roman" FontSize="36" Foreground="#FFF7EBEB" Height="124" Canvas.Left="828" Canvas.Top="143" Width="352"/>
+        </Canvas>
+        <GridView x:ConnectionId='2' x:Name="ElementsEdit" HorizontalAlignment="Left" Height="642" Margin="10,28,0,0" VerticalAlignment="Top" Width="1238"                                                 />
+        <GridView x:ConnectionId='3' x:Name="VillesEdit" HorizontalAlignment="Left" Height="590" Margin="404,56,0,0" VerticalAlignment="Top" Width="880"                                               />
+
+    </Grid>
+</Page>
+

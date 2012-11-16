@@ -1,0 +1,6 @@
+C:\Users\BIBOUH\git\Projects-Rabah\Etudes\Projets\CSharp\CSharp\bin\Debug\CSharp.exe.config
+C:\Users\BIBOUH\git\Projects-Rabah\Etudes\Projets\CSharp\CSharp\bin\Debug\CSharp.exe
+C:\Users\BIBOUH\git\Projects-Rabah\Etudes\Projets\CSharp\CSharp\bin\Debug\CSharp.pdb
+C:\Users\BIBOUH\git\Projects-Rabah\Etudes\Projets\CSharp\CSharp\obj\Debug\CSharp.csprojResolveAssemblyReference.cache
+C:\Users\BIBOUH\git\Projects-Rabah\Etudes\Projets\CSharp\CSharp\obj\Debug\CSharp.exe
+C:\Users\BIBOUH\git\Projects-Rabah\Etudes\Projets\CSharp\CSharp\obj\Debug\CSharp.pdb

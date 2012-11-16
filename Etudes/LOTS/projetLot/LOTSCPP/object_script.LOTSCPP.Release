@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\Molecule.o
+./release\Liaison.o
+./release\Atome.o
+./release\Sommet.o
+./release\Graphe.o
+./release\Aret.o
+./release\Reseau.o
+./release\Ordinateur.o
+./release\Cable.o
+);

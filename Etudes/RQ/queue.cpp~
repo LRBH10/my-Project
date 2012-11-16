@@ -1,0 +1,110 @@
+#include <iostream>
+#include <fstream>
+#include <stdio.h>
+
+using namespace std;
+
+int main()
+{
+	int recive =0;
+	int droped =0;
+	
+	int emis =0;
+	
+	//flux TCP0
+	int recive0 =0;
+	int emis0 =0;
+        
+	//flux TCP1
+	int recive1 =0;
+	int emis1 =0;
+        
+	//flux TCP2
+	int recive2 =0;
+	int emis2 =0;
+  
+	//flux UDP
+	int recive3 =0;
+	int emis3 =0;
+        
+        ifstream fichier("out.tr", ios::in);  // on ouvre en lecture
+	
+	long int tailleTotal =0;
+ 	double timeSi =0;
+	double timeSiP =0;
+
+	int nbrEnque 	=	0;
+	int nbrDenque 	= 	0;
+	
+	double periode = 0.05;
+	
+	
+        if(fichier)  // si l'ouverture a fonctionné
+        {
+                string ligne;
+        	while(getline(fichier, ligne))  // tant que l'on peut mettre la ligne dans "contenu"
+        	{
+			char c;
+			int src,dest,taille,flowid;
+			char type[10];
+			char tire6[10];
+
+			
+
+			sscanf(ligne.c_str(),"%c %lf %d %d %s %d %s %d",&c,&timeSi,&src,&dest,type,&taille,tire6,&flowid);
+//		 	cout << type << endl;  // on l'affiche
+			
+			switch (c) 
+			{
+				case 'r':
+					if(src== 0 && dest == 1 )
+					{
+						recive ++;
+		                                if(flowid == 0)	recive0++;  
+						if(flowid == 1)	recive1++;  
+						if(flowid == 2)	recive2++;  
+						if(flowid == 3)	recive3++;  
+						tailleTotal +=	taille;
+					}
+					
+					break;
+				case 'd':
+					if(src== 0 && dest == 1 )
+					{
+						tailleTotal +=	taille;
+						droped ++;
+					}
+					break;
+				case '+':
+					if(src== 0 && dest == 1 )
+					{
+						if(flowid == 0)	emis0++;
+						if(flowid == 1)	emis1++;
+						if(flowid == 2)	emis2++;
+						if(flowid == 3)	emis3++;  
+						emis++;
+					}
+					break;
+				case '-':
+					break;
+				
+				default:
+					break;
+			}			
+        	}
+ 		fichier.close();
+        }
+        
+	
+	cout << "RECU " << recive <<"\n Dropped " << droped << "\n Emis " << emis << "\n";
+	cout << "taux de perte " << 1-((float)recive/(float)emis)<< endl ;
+	cout << "taux de perte2 " << ((float)droped/(float)emis)<< endl ;
+	cout << "taux de perte TCP0 " << 1-((float)recive0/(float)emis0)<< endl ;
+	cout << "taux de perte TCP1 " << 1-((float)recive1/(float)emis1)<< endl ;
+	cout << "taux de perte TCP2 " << 1-((float)recive2/(float)emis2)<< endl ;
+	cout << "taux de perte UDP " << 1-((float)recive3/(float)emis3)<< endl ;
+
+	cout << "Taille Total " << tailleTotal/8  << "octect \n Duree sumulation " << timeSi <<"s"<< endl;
+	cout << "le Debit Moyenne " << tailleTotal/timeSi  <<" octet/s"<<endl;
+        return 0;
+}

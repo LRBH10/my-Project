@@ -1,0 +1,15 @@
+{use $articles, $installRoot}
+<div id="pageid">
+    <h1>Modifier un Article</h1>
+    <h2>Titre d'Article </h2>
+    <form action="{$installRoot}/index.php/modifyArticleV" method="POST">
+        
+        <select name="idArticle"> 
+        {foreach $articles as $article }
+            <option value="{$article->id}">{$article->titre}</option> 
+        {/foreach}
+        </select>
+        <input type="submit" name="delete" id="delete" value="Modifier l'article" />
+    </form>
+    
+</div>

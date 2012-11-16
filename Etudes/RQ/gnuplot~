@@ -1,0 +1,17 @@
+gnuplot
+
+set title "les fenetre TCPs"
+set xlabel "le temps de simulation"
+set ylabel "la taille de la fenetre TCP"
+
+plot    "tcp0.tr" using 2:3 with lines title "flux TCP 0",\
+        "tcp1.tr" using 2:3 with lines title "flux TCP 1",\
+        "tcp2.tr" using 2:3 with lines title "flux TCP 2"
+   
+
+set title "la File d'attente"
+set xlabel "le temps de simulation"
+set ylabel "Nombre de paquet dans la fille d'attente"
+
+plot "filAtt.tr" with lines title "File d'attente"
+        

@@ -1,0 +1,262 @@
+/*CSS de la page index*/
+body
+{
+   width: 945px;
+   margin: auto; /* Pour centrer notre page */
+   margin-top: 20px; /* Pour éviter de coller avec le haut de la fenêtre du navigateur. Essayez d'enlever pour voir ! */
+   margin-bottom: 20px;    /* Idem pour le bas du navigateur */
+   background-image: url("../images/dzi.png"); /* Une petite image de fond pour éviter d'avoir un vieux fond blanc :p */
+   background-attachment: fixed; /* Le fond restera fixe */
+   background-position: center; /* Le fond sera centrer */
+}
+
+/*input#pseudo , #mdp, #nom,#prenom,#email {
+          background-color : rgb(255,255,128);
+          color : black;
+		  border : 2px solid blue;
+          }*/
+#pseudo:focus , #mdp:focus, #nom:focus,#prenom:focus,#email:focus,#tel:focus
+{
+background-color: rgb(128,255,255);
+/*border : 2px solid red;*/
+}
+#pseudo:hover , #mdp:hover, #nom:hover,#prenom:hover,#email:hover,#tel:hover
+{
+background-color: rgb(128,255,255);
+}
+
+/* L'en-tête */
+
+#en_tete
+{
+   width: 942px;
+   height: 143px;
+   background-image: url("../images/bannierei.png");
+   background-repeat: no-repeat;
+   margin-bottom: 10px;
+   border: 2px solid black;
+}
+#speedbarre
+{
+width:762px;
+height:25px;
+background-color: black;
+margin-left: 180px;
+margin-bottom: 10px;
+background-attachment: fixed; /* Le fond restera fixe */
+border : 2px solid red;
+
+}
+
+.element_barre span
+{
+margin : 20px;
+color:white;
+font-size : 140%;
+font-family: Arial, "Arial Black", "Times New Roman", Times, serif;
+}
+
+.element_barre a
+{
+text-decoration : none;
+}
+
+.element_barre span:hover
+{
+color:black;
+background-color: orange;
+border : 2px solid red;
+font-size : 160%;
+margin : 38px;
+padding-left : 5px;
+padding-right : 5px;
+}
+
+#menu
+{
+   float: left; /* Le menu flottera à gauche */
+   width: 160px; /* Très important : donner une taille au menu */
+}
+
+#menu span
+{
+   color : orange;
+   text-decoration: none;
+}
+
+.authentification
+{
+background-position: center;
+margin-bottom: 20px;
+}
+.authentification legend
+{
+color : white;
+font-family: Comic sans MS, serif ;
+}
+
+.authentification label
+{
+color : orange;
+display:block;
+}
+
+.authentification a
+{
+color: orange;
+text-decoration : none;
+}
+
+.authentification a:hover
+{
+text-decoration : underline;
+color : green;
+}
+
+.element_menu
+{
+   background-color: black;
+   background-position: center;
+   background-repeat: repeat-x;
+   
+   border: 2px solid red;
+   
+   margin-bottom: 20px; /* Pour éviter que les éléments du menu ne soient trop collés */
+}
+
+/* Quelques effets sur les menus */
+
+
+.element_menu h3 /* Tous les titres de menus */
+{  font-size: 16px; 
+   color: white;
+   font-family: Arial, "Arial Black", "Times New Roman", Times, serif;
+   text-align: center;
+}
+
+.element_menu ul /* Toutes les listes à puces se trouvant dans un menu */
+{
+   list-style-image: url("../images/puce.png"); /* On change l'apparence des puces */
+   padding: 0px; /* Tous les côtés ont une marge intérieure de 0 pixels */
+   padding-left: 20px; /* ... mais on modifie ensuite la marge de gauche, donc celle-là fera finalement 20 pixels */
+   margin: 0px; /* Idem pour margin, ça nous évite d'avoir à en écrire 4 (margin-left, margin-right...) */
+   margin-bottom: 5px; /* Même chose que tout à l'heure, on modifie ensuite juste margin-bottom, mais tous les autres sont à 0px */
+   
+}
+
+.element_menu a /* Tous les liens se trouvant dans un menu */
+{
+   color : orange;
+   text-decoration : none;
+}
+
+.element_menu a:hover /* Quand on pointe sur un lien du menu */
+{
+   /*background-color: blue;*/
+   color: green;
+   text-decoration: underline;
+}
+
+/* Le corps de la page */
+
+#corps
+{
+   margin-left: 180px; /* Une marge à gauche pour pousser le corps, afin qu'il ne passe plus sous le menu */
+   margin-bottom: 20px; /* Ca c'est pour éviter que le corps colle trop au pied de page en-dessous */
+   padding: 5px; /* Pour éviter que le texte à l'intérieur du corps ne colle trop à la bordure */
+   font-size: 17px;
+   color: white;
+   text-align: justify;
+   background-color: black; /* Une couleur de fond pour le corps */
+   background-repeat: repeat-x; /* Une petite image de fond qui se répètera horizontalement en haut */
+   
+   border: 2px solid blue; /* Une bordure pour bien marquer les limites du corps et pour faire joli */
+}
+
+#créateur_site
+{
+   color: white;
+   font-family: Comic sans MS, serif ;
+}
+
+.Contact_créateur
+{
+   color: violet;
+   font-family: Comic sans MS, serif ;
+}
+
+#corps h1 /* Tous les titres h1 du corps */
+{
+   color: green;
+   text-align: center;
+   font-family: Arial, "Arial Black", "Times New Roman", Times, serif;
+}
+
+#corps h2 /* Tous les titres h2 du corps */
+{
+   height: 30px;
+
+   background-image: url("../images/titrei.png"); /* Une petite image de fond sur les titres h2 */
+   background-repeat: no-repeat; /* L'image ne se répètera pas, elle sera à gauche du titre */
+   
+   padding-left: 30px;
+   color: yellow;
+   text-align: left;
+}
+
+/* Le pied de page (qui se trouve tout en bas, en général pour les copyrights) */
+
+#corpsi
+{
+   margin-left: 180px; /* Une marge à gauche pour pousser le corps, afin qu'il ne passe plus sous le menu */
+   margin-bottom: 20px; /* Ca c'est pour éviter que le corps colle trop au pied de page en-dessous */
+   padding: 5px; /* Pour éviter que le texte à l'intérieur du corps ne colle trop à la bordure */
+   font-size: 17px;
+   color: white;
+   text-align: justify;
+   background-color: black; /* Une couleur de fond pour le corps */
+   background-repeat: repeat-x; /* Une petite image de fond qui se répètera horizontalement en haut */
+   
+   border: 2px solid blue; /* Une bordure pour bien marquer les limites du corps et pour faire joli */
+}
+
+#corpsi h2
+{
+   text-align : center;
+   color: yellow;
+}
+.formui label
+{
+    display:block;
+    width : 125px;
+    float : left;
+
+}
+
+.formuii label
+{
+    display:block;
+    width : 290px;
+    float : left;
+
+}
+
+.formui legend
+{
+color : blue;
+font-family: Comic sans MS, serif ;
+}
+
+#pied_de_page
+{
+   padding: 5px;
+   font-size: 18px;
+   text-align: center;
+
+   color: red;
+   background-color: #626262;
+   background-image: url("../images/motifppi.png");
+   background-repeat: repeat-x;
+   border: 2px solid black;
+}
+

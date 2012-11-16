@@ -1,0 +1,12 @@
+{use $installRoot}
+<div id="menu">
+    <div class="verticalmenu">
+        <ul>
+            <li><a href="{$installRoot}/index.php">Home</a></li>
+            <li><a href="{$installRoot}/index.php/add">Ajouter Article</a></li>
+            <li><a href="{$installRoot}/index.php/modifyArticle">Modifier Article</a></li>
+            <li><a href="{$installRoot}/index.php/delete">Supprimer Article</a></li>
+            <li><a href="{$installRoot}/index.php/aboutus">Etudiants</a></li>
+	</ul>
+    </div> 
+</div>

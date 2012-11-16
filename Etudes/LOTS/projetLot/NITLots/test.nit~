@@ -1,0 +1,34 @@
+
+import chimie
+import informatique
+
+var ml=new Molecule
+var ml1=new Molecule
+
+ 
+
+
+
+
+
+var at1=new Atome
+var at2=new Atome
+var at3=new Atome
+
+ml.addSommet(at1)
+ml.addSommet(at3)
+ml1.addSommet(at1)
+ml1.addSommet(at2)
+
+print ml.sommets
+print ml1.sommets
+
+
+
+
+var li=new Liaison
+print li.isEmpty
+ml.addAret(li)
+print ml.arets
+
+

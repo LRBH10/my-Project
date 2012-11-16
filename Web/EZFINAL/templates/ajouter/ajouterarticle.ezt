@@ -1,0 +1,22 @@
+<div id="pageid">
+    <h1>Ajout D'un EAPPArticle</h1>
+    <form action="addV" method="POST">
+        <table>
+            <tr>
+                <th><h2>Titre</h2></td>
+                <td><input type="text" name="titre" id="titre" /></td>
+            </tr>
+            <tr>
+                <th><h2>Contenu</h2></td>
+                <td><textarea name="contenu" id="contenu" rows="20" cols="50"></textarea></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><input type="submit" name="create" id="create" value="Ajouter l'article" /></td>
+                <td></td>
+                
+            </tr>
+        </table>
+        
+    </form>
+</div>
