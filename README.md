@@ -1,5 +1,4 @@
-Contient les different 
-Projet et TD TP que j'ai fait 
+Contient les differents projets et TD TP que j'ai suivi
  
-a partir de Fevrier 2012
+A partir de Février 2012
   
